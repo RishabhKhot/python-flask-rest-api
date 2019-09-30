@@ -5,7 +5,7 @@ This program shows how to set up a flaskrestapi with postgre db, blueprint, sqla
 
 ### Clone the repo
 
-```$ git clone https://github.com/bisratyalew/flask-rest-api.git```
+```$ git clone https://github.com/RishabhKhot/flask-rest-api.git```
 #####
 ```$ cd flask-rest-api```
 
